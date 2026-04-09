@@ -36,18 +36,3 @@
 **XII. Pursue inner peace through meditation, prayer, or any practice that aligns with your beliefs.**
 
 ---
-
-## The Shape of the Commandments
-
-| Theme | Commandments |
-|---|---|
-| **Love & Compassion** | I, V, IX |
-| **Truth & Integrity** | II, XI |
-| **Responsibility** | III, VII |
-| **Respect & Justice** | IV, VI, X |
-| **Forgiveness** | VIII |
-| **Inner Practice** | XII |
-
----
-
-← [Back to README](../README.md)
