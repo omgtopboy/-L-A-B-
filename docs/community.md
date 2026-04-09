@@ -13,9 +13,10 @@ a building that embodies the values of the religion in its very construction.
 
 The communal place is nestled in a natural setting, surrounded by trees and living vegetation.
 It is built from locally sourced materials — wood, stone — chosen for their connection
-to the land and their low environmental footprint.
+to the land and their low environmental footprint. It can also be used from repurposed, upcycled or recycled materials.
+The communal place is most importantly a place of meeting in the context of environment the Labber society or individual lives. It adds and complements it naturally as it should not create discomfort and actively encourages visiting.
 
-### Design Principles
+### Design Principles Ideas
 
 | Principle | Application |
 |---|---|
@@ -27,7 +28,7 @@ to the land and their low environmental footprint.
 | **Local materials** | Locally sourced, recycled, or sustainably produced wherever possible |
 | **Safety** | Designed with the wellbeing of all members as the primary concern |
 
-### Infrastructure
+### Infrastructure ideas
 
 - **Green roof** — insulation, biodiversity, connection to the sky
 - **Solar panels** — reduced energy dependence; a visible commitment to sustainability
@@ -45,13 +46,15 @@ There is no central authority, no permanent hierarchy, no external institution.
 
 ### Principles
 
-**1. Democratic and participatory decision-making**
+**1. Participatory decision-making**
 Every member has a voice. Decisions that affect the community are made with the community.
 Processes are designed to ensure all voices — not only the loudest — are heard.
+The goal is always the consensus, not compromise.
 
 **2. Transparency and accountability**
 Leaders report to the community, not the other way around.
 Decision-making is open; reasoning is shared; outcomes are reviewed together.
+Decisions should be made only after pre-discussing them with the ones who will be the recipients of changes.
 
 **3. Inclusivity and equity**
 The governance process itself must model the values it protects.
@@ -64,6 +67,7 @@ not an afterthought.
 **5. Service and altruism**
 Leadership in L·A·B is a form of service. Those who lead do so for the community's benefit,
 not their own advancement.
+Regular rotation of leadership amongst the ones willing to help the governing is encouraged.
 
 ---
 
@@ -84,10 +88,10 @@ Financial decisions are made transparently, in accordance with the governance pr
 
 ---
 
-## Community Representatives
+## Community Representatives and Roles ideas
 
 Members of the community may take on representative roles — not as titles of authority,
-but as callings toward a particular kind of service.
+but as callings toward a particular kind of service or as an acknowledgment of their acts.
 
 | Role | Focus |
 |---|---|
@@ -96,7 +100,7 @@ but as callings toward a particular kind of service.
 | Truth Bearer | Honesty, transparency, and accountability |
 | Mercy Maker | Compassion and care for those who are struggling |
 | Justice Bringer | Equity, challenge of injustice, advocacy |
-| Love Ambassador | Active outreach and community-building |
+| Ambassador of L·A·B | Active outreach and community-building |
 | Compassionate Guide | Mentorship and spiritual support |
 | Gratitude Guardian | Cultivating appreciation and positive awareness |
 | Responsibility Teacher | Accountability practices and education |
