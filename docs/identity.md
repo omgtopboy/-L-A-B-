@@ -11,25 +11,6 @@
 The name chosen for this path: a declaration, not a description.
 *Love for All Beings* — not conditional, not selective, not abstract. For all.
 
-### Candidate Names Considered
-
-During the founding of L·A·B, the community explored several names:
-
-| Name | Notes |
-|---|---|
-| Heartmind Religion | The union of feeling and thought |
-| Gaia Way | Earth-centered path |
-| Earthheart Faith | Grounded in love for the planet |
-| Infinite Harmony | Boundless peace between all things |
-| Celestial Coexistence | Cosmic scale of belonging |
-| One Earth Faith | Unity through shared home |
-| Natura Nurturance | Nature as the model for care |
-| Sacred Stewardship | Responsibility as spiritual practice |
-| Universal Love and Kindness (ULAK) | Broad and universal |
-| Earthly Enlightenment (EE) | Wisdom found in the material world |
-| **Love for All Beings (L·A·B)** | **Chosen name** |
-| Embrace All. Nourish All (EANA) | Active, verb-led commitment |
-
 ---
 
 ## Symbols
