@@ -31,13 +31,13 @@ acknowledging its origin, its nourishment, and the effort behind it.
 The community gathers once a week for a shared meal. Emphasis on presence, connection,
 and the simple ritual of eating together. Contributions from all members are welcome.
 
-### 4. Nature Walks
-Regular group walks or hikes in natural settings. A reminder of our place within —
-not above — the living world.
-
 ---
 
 ## Ongoing Practices
+
+### 4. Nature Walks
+Regular group walks or hikes in natural settings. A reminder of our place within —
+not above — the living world.
 
 ### 5. Community Service
 Members engage in regular service projects. Hands-on work that builds responsibility,
@@ -78,8 +78,8 @@ A time for honest self-assessment and renewed intention.
 | Frequency | Practice |
 |---|---|
 | Daily | Morning Meditation, Communal Exercise, Mindful Eating |
-| Weekly | Group Meals, Nature Walks |
-| Ongoing | Community Service, Sustainability Workshops, Forgiveness Circles, Gratitude Journaling, Creative Workshops, Conservation Volunteering |
+| Weekly | Group Meals |
+| Ongoing | Nature Walks, Community Service, Sustainability Workshops, Forgiveness Circles, Gratitude Journaling, Creative Workshops, Conservation Volunteering |
 | Monthly | Personal Reflection |
 
 ---
