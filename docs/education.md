@@ -36,9 +36,9 @@ the activities they take part in, and the community they build with one another.
 
 | Subject | Areas |
 |---|---|
-| **English** | Reading comprehension and analysis; writing techniques; speaking and listening |
+| **Language** | Reading comprehension and analysis; writing techniques; speaking and listening |
 | **Mathematics** | Numeracy; algebra; geometry |
-| **Science** | Environmental studies; animal welfare; physical science |
+| **Science** | Environmental studies; animal life and welfare; physical science |
 | **Social Studies** | Community and government; history; civics |
 | **Arts** | Visual arts; performing arts; music |
 | **Physical Education** | Health and wellness; sports and fitness; cooperative games |
@@ -52,11 +52,11 @@ the activities they take part in, and the community they build with one another.
 
 ---
 
-## Teaching the Core Values
+## Ideas for Teaching the Core Values
 
 ### Love
 Volunteering at nursing homes or shelters. Writing letters to people who are ill or isolated.
-Being present for a friend in need. Love as action.
+Being present for a friend in need. Learning to express gratefulness. Learning to accept it.
 
 ### Responsibility
 Age-appropriate tasks — chores, care for plants or animals, community garden participation.
@@ -83,12 +83,12 @@ Basic mindfulness techniques: deep breathing, visualization, body relaxation.
 Regular practice integrated into the school day — not supplementary, but central.
 
 ### Environmental Sustainability
-Recycling. Reducing water use. Planting trees.
+Recycling. Upcycling. Crafts. Reducing water use. Planting trees.
 Hiking, camping, and birdwatching. Developing a genuine love for the natural world.
 
 ---
 
-## Program Components
+## Program Components Ideas
 
 ### 1. Love of Community Activities
 Volunteering at local charities. Helping senior citizens. Community cleanup events.
@@ -120,7 +120,7 @@ and celebrate their contributions to the community. Joy as a shared practice.
 
 The physical learning environment reflects what is being taught:
 
-- Eco-friendly materials and technologies throughout
+- Eco-friendly, recycled, repurposed materials and technologies throughout
 - Sustainable energy and waste reduction practices
 - Green spaces and gardens integrated into the campus
 - Parents actively engaged — as volunteers, mentors, and participants
