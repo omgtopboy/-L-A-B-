@@ -19,7 +19,7 @@ Led by a rotating designated member. Emphasis on mindfulness, stillness, and int
 A daily group movement session — yoga, stretching, walking, or other physical activity.
 Combines physical health with community bonding.
 
-### 11. Mindful Eating
+### 3. Mindful Eating
 Members practice conscious, grateful, and deliberate engagement with food —
 acknowledging its origin, its nourishment, and the effort behind it.
 
@@ -71,9 +71,8 @@ The practice is meditative in its repetition: the same motion returned to, again
 until the mind releases its grip on thought and something quieter takes over.
 This is not about producing a finished object — it is about what happens in the making.
 
-Pattern Practice may be done alone or together. When done communally, it becomes a shared silence —
-each person following the same form, arriving at the same stillness by a slightly different path.
-The objects made — cloths, tiles, vessels, drawings — become part of the communal space or are carried into daily life.
+Pattern Practice may be done alone or together. When done communally, the atmosphere reflects what the community needs in that moment — it might be a joyful exchange of news, singing, space for deep conversation, or a shared meditative silence.
+The objects made — cloths, tiles, vessels, drawings — can become part of the communal space.
 
 ---
 
