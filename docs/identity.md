@@ -11,36 +11,27 @@
 The name chosen for this path: a declaration, not a description.
 *Love for All Beings* — not conditional, not selective, not abstract. For all.
 
+### Translation
+
+When engaging with the identity in other languages, **L·A·B** remains the universal root name and abbreviation worldwide. It acts as the global, shared anchor for the religion. The expanded phrase, however, should be translated so its living meaning connects with the local culture. 
+
+For example:
+- *English*: L·A·B — Love for All Beings
+- *Spanish*: L·A·B — Amor por Todos los Seres
+- *French*: L·A·B — Amour Pour Tous Les Êtres
+
+By preserving the abbreviation globally, the movement remains unified across borders and its stylized text symbols can be freely shared and universally recognized.
+
 ---
 
 ## Symbols
 
-L·A·B does not require symbols — but offers them as optional anchors for contemplation
-and shared recognition within the community.
+L·A·B does not prescribe universal graphic symbols or icons. The religion itself is identified directly by its abbreviation, which serves as its foundational symbol when stylized:
 
-### Tree of Life
-*Growth, wisdom, and the web of connection between all living things.*
-Often depicted with roots reaching toward earth and branches toward sky —
-a reminder that we are sustained from below and drawn toward light.
+- `-L-A-B-`
+- `L·A·B`
 
-### Heart and Interlocked Hands
-*Love, kindness, responsibility, and community.*
-The hands joined: solidarity, mutual support, and the active work of justice.
-
-### Mandala
-*Wholeness, personal growth, and the interconnectedness of all things.*
-A sacred geometric form used in meditation and contemplation —
-the universe reflected in a pattern, the pattern reflected in the self.
-
-### Sun
-*Strength, life energy, and natural sustainability.*
-The source from which all life draws — a reminder of balance,
-the importance of the natural world, and energy that can be shared without diminishing.
-
-### Water Droplet
-*Life, purity, renewal, and flow.*
-A reminder of the need for conservation, the cycle of existence,
-and the capacity for constant renewal and change.
+While this abbreviation acts as the global identifier for the religion, each individual community is identified by its unique **pattern**. The combination of the community's living pattern alongside the stylized L·A·B mark forms the complete visual signature of a local gathering.
 
 ---
 
