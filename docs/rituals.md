@@ -63,6 +63,18 @@ Expression as release, as communication, and as connection.
 Hands-on participation in environmental protection — reforestation, cleanup,
 conservation programs. Action as devotion.
 
+### 13. Pattern Practice
+Members engage in the making of the community's pattern — drawing, sculpting, sewing, weaving, carving,
+or any craft the individual and community finds fitting.
+
+The practice is meditative in its repetition: the same motion returned to, again and again,
+until the mind releases its grip on thought and something quieter takes over.
+This is not about producing a finished object — it is about what happens in the making.
+
+Pattern Practice may be done alone or together. When done communally, it becomes a shared silence —
+each person following the same form, arriving at the same stillness by a slightly different path.
+The objects made — cloths, tiles, vessels, drawings — become part of the communal space or are carried into daily life.
+
 ---
 
 ## Monthly Practices
@@ -79,7 +91,7 @@ A time for honest self-assessment and renewed intention.
 |---|---|
 | Daily | Morning Meditation, Communal Exercise, Mindful Eating |
 | Weekly | Group Meals |
-| Ongoing | Nature Walks, Community Service, Sustainability Workshops, Forgiveness Circles, Gratitude Journaling, Creative Workshops, Conservation Volunteering |
+| Ongoing | Nature Walks, Community Service, Sustainability Workshops, Forgiveness Circles, Gratitude Journaling, Creative Workshops, Conservation Volunteering, Pattern Practice |
 | Monthly | Personal Reflection |
 
 ---

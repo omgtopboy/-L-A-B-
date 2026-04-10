@@ -1,6 +1,6 @@
 # Identity
 
-*The name, symbols, colors, and aesthetic of Love for All Beings.*
+*The name, symbols, colors, pattern, and aesthetic of Love for All Beings.*
 
 ---
 
@@ -65,6 +65,42 @@ The only requirement is that the palette be **chosen together** — not inherite
 | **Something else entirely** | Whatever your community is |
 
 The palette can evolve. What matters is that it is always chosen, never assumed.
+
+---
+
+## Pattern
+
+Every L·A·B community defines its own **pattern** — a repeating visual form that belongs to that community alone.
+
+The pattern is not a logo. It is not a fixed symbol passed down from above.
+It is a living mark: chosen together, carried in daily life, and capable of changing as the community changes.
+
+### Pattern as Visual Identity
+
+The community pattern appears wherever the community wishes — on the walls of the communal space, woven into clothing, pressed into clay, embroidered on fabric, painted on objects shared among members. It is a visual signature of this particular gathering of people, at this particular time.
+
+Unlike a symbol — which points toward a meaning — a pattern *is* the meaning made visible through repetition.
+It does not need to be explained. It needs to be made.
+
+### Pattern as Ritual
+
+The act of drawing, sewing, sculpting, weaving, carving, or otherwise making the community pattern is itself a practice — a form of moving meditation.
+
+Repetition is the mechanism. The hand returns to the same motion again and again. The mind, given something to follow, begins to release. What remains — underneath the thoughts — is presence.
+
+This is why the pattern is not just an aesthetic choice but a spiritual one:
+every time a member makes it, they enter the same state that any repeated sacred act produces.
+The pattern is a ritual in visual form.
+
+### Choosing and Changing the Pattern
+
+The pattern is decided by all members of the community — through a process that is patient, open, and unhurried.
+
+It may take many sessions. Proposals are made, shown, responded to.
+The goal is not a majority vote but a felt sense of *yes* — something the community recognizes as its own.
+
+The pattern can be changed. If the community feels it has grown beyond what the current pattern holds,
+the process of choosing begins again. No pattern is sacred in itself — only the act of choosing it together is.
 
 ---
 
