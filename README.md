@@ -25,7 +25,7 @@ Initial commit(ment) by OMGTopBoy aka Nikolaj Mokry with the assistance of AutoG
 - [Rituals & Practices](docs/rituals.md)
 - [The Sacred Mystery](docs/sacred-mystery.md)
 - [Community & Communal Place](docs/community.md)
-- [Identity — Symbols, Colors, Pattern & Names](docs/identity.md)
+- [Identity — Identifier, Colors, Pattern & Names](docs/identity.md)
 - [Social Values](docs/social-values.md)
 - [Education — Children's Program](docs/education.md)
 

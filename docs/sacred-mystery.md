@@ -42,24 +42,14 @@ Return to it often. Let the answer change.
 The mystery reveals itself differently to each person.
 Share your understanding. Listen to others'. The full picture emerges together.
 
-**Shared symbols and language**
-The community develops symbols, images, and language that point toward the mystery —
+**Shared patterns and language**
+The community develops its unique pattern and visual language that points toward the mystery —
 not to define it, but to keep it present in daily life.
 
 **Integration into ritual**
 Every practice in L·A·B can be understood as an expression of interconnectedness:
 the forgiveness circle acknowledges that harm flows between connected beings;
 the nature walk remembers that we are part of an ecosystem, not its observers.
-
----
-
-## Possible Symbols of the Mystery
-
-| Symbol | Meaning |
-|---|---|
-| Tree of Life | Roots to earth, branches to sky — the web of all living things |
-| Mandala | Wholeness, growth, the self as part of a larger pattern |
-| Water Droplet | Flow, renewal, the cycle that connects all life |
 
 ---
 

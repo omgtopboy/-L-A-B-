@@ -1,6 +1,6 @@
 # Identity
 
-*The name, symbols, colors, pattern, and aesthetic of Love for All Beings.*
+*The name, identifier, colors, pattern, and aesthetic of Love for All Beings.*
 
 ---
 
@@ -20,13 +20,13 @@ For example:
 - *Spanish*: L·A·B — Amor por Todos los Seres
 - *French*: L·A·B — Amour Pour Tous Les Êtres
 
-By preserving the abbreviation globally, the movement remains unified across borders and its stylized text symbols can be freely shared and universally recognized.
+By preserving the abbreviation globally, the movement remains unified across borders and its stylized text mark can be freely shared and universally recognized.
 
 ---
 
-## Symbols
+## Religion Identifier
 
-L·A·B does not prescribe universal graphic symbols or icons. The religion itself is identified directly by its abbreviation, which serves as its foundational symbol when stylized:
+L·A·B does not prescribe universal graphic symbolism or icons. The religion itself is identified directly by its abbreviation, which serves as its foundational mark when stylized:
 
 - `-L-A-B-`
 - `L·A·B`
@@ -63,14 +63,14 @@ The palette can evolve. What matters is that it is always chosen, never assumed.
 
 Every L·A·B community defines its own **pattern** — a repeating visual form that belongs to that community alone.
 
-The pattern is not a logo. It is not a fixed symbol passed down from above.
+The pattern is not a logo. It is not a fixed icon passed down from above.
 It is a living mark: chosen together, carried in daily life, and capable of changing as the community changes.
 
 ### Pattern as Visual Identity
 
 The community pattern appears wherever the community wishes — on the walls of the communal space, woven into clothing, pressed into clay, embroidered on fabric, painted on objects shared among members. It is a visual signature of this particular gathering of people, at this particular time.
 
-Unlike a symbol — which points toward a meaning — a pattern *is* the meaning made visible through repetition.
+Unlike an icon — which points toward a meaning — a pattern *is* the meaning made visible through repetition.
 It does not need to be explained. It needs to be made.
 
 ### Pattern as Ritual
