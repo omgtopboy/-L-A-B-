@@ -49,7 +49,7 @@ not to define it, but to keep it present in daily life.
 **Integration into ritual**
 Every practice in L·A·B can be understood as an expression of interconnectedness:
 the forgiveness circle acknowledges that harm flows between connected beings;
-the nature walk remembers that we are part of an ecosystem, not its observers.
+the environment walk remembers that we are part of an ecosystem, not its observers.
 
 ---
 

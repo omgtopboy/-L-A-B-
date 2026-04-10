@@ -5,7 +5,7 @@
 ---
 
 Rituals in L·A·B are not ceremonial obligations — they are recurring opportunities
-to live the values, strengthen community, and deepen connection with the natural world.
+to live the values, strengthen community, and deepen connection with the surrounding world.
 
 ---
 
@@ -35,9 +35,9 @@ and the simple ritual of eating together. Contributions from all members are wel
 
 ## Ongoing Practices
 
-### 4. Nature Walks
-Regular group walks or hikes in natural settings. A reminder of our place within —
-not above — the living world.
+### 4. Environment Walks
+Regular group walks through the surrounding environment — whether an old-growth forest, a concrete downtown, or an industrial district. A reminder of our place within —
+not above — the world around us.
 
 ### 5. Community Service
 Members engage in regular service projects. Hands-on work that builds responsibility,
@@ -91,7 +91,7 @@ A time for honest self-assessment and renewed intention.
 |---|---|
 | Daily | Morning Meditation, Communal Exercise, Mindful Eating |
 | Weekly | Group Meals |
-| Ongoing | Nature Walks, Community Service, Sustainability Workshops, Forgiveness Circles, Gratitude Journaling, Creative Workshops, Conservation Volunteering, Pattern Practice |
+| Ongoing | Environment Walks, Community Service, Sustainability Workshops, Forgiveness Circles, Gratitude Journaling, Creative Workshops, Conservation Volunteering, Pattern Practice |
 | Monthly | Personal Reflection |
 
 ---

@@ -27,15 +27,15 @@ The communal place should feel unmistakably like *this* community's space — no
 | **Accessibility** | Wheelchair accessible; welcoming to all physical abilities and backgrounds |
 | **Community first** | Seating arranged in circles; no stage, no hierarchy of space |
 | **Flexibility** | Space reconfigures for different events, seasons, and needs |
-| **Nature integration** | Gardens, green spaces, natural light throughout |
-| **Local materials** | Locally sourced, recycled, or sustainably produced wherever possible |
+| **Contextual integration** | Incorporating the surrounding world — green gardens, street art, acoustic club treatments, or digital displays |
+| **Conscious sourcing** | Intentional material choices — whether locally sourced wood, recycled industrial steel, or repurposed urban fabric |
 | **Safety** | Designed with the wellbeing of all members as the primary concern |
 
 ### Infrastructure ideas
 
-- **Green roof** — insulation, biodiversity, connection to the sky
-- **Solar panels** — reduced energy dependence; a visible commitment to sustainability
-- **Water conservation systems** — rainwater collection, low-flow fixtures
+- **Context-specific features** — Green roofs for eco-buildings; acoustic treatments for club spaces; digital spaces for tech-centric gatherings
+- **Conscious energy use** — Solar panels, optimized power grids, or repurposed industrial energy
+- **Resource systems** — Rainwater collection, shared urban utilities, or low-draw fixtures
 - **Communal kitchen and dining area** — for weekly meals and daily gathering
 - **Quiet spaces** — for meditation, reflection, and solitude
 - **Community art** — walls featuring work made by members; the space as a living gallery
