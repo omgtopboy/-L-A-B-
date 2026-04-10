@@ -11,10 +11,13 @@ a building that embodies the values of the religion in its very construction.
 
 ### Setting & Construction
 
-The communal place is nestled in a natural setting, surrounded by trees and living vegetation.
-It is built from locally sourced materials — wood, stone — chosen for their connection
-to the land and their low environmental footprint. It can also be used from repurposed, upcycled or recycled materials.
-The communal place is most importantly a place of meeting in the context of environment the Labber society or individual lives. It adds and complements it naturally as it should not create discomfort and actively encourages visiting.
+The communal place is above all a place of meeting — shaped by the environment in which the Labber community lives and the aesthetic it has chosen together.
+
+It may be nestled in nature or situated in the heart of a city. It may be built from wood and stone, or from steel and reclaimed industrial material. It may feel ancient or radically contemporary — a forest clearing, a converted warehouse, a basement club space, a rooftop, or something else entirely. What matters is that it fits the community's world, invites gathering, and does not create discomfort.
+
+Materials may be locally sourced, repurposed, upcycled, or recycled — with sustainability considered as a standing value, not a fixed prescription for style.
+
+The communal place should feel unmistakably like *this* community's space — not a template imposed from outside.
 
 ### Design Principles Ideas
 

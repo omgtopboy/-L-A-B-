@@ -46,20 +46,25 @@ and the capacity for constant renewal and change.
 
 ## Colors
 
-The L·A·B palette is drawn from the earth.
+L·A·B has no prescribed palette. The visual identity of a community belongs to that community.
 
-> Earth tones are colors typically associated with soil, wood, minerals, and natural elements —
-> warm, muted hues that convey grounding, stability, and environmental connection.
+Aesthetic choices — colors, patterns, imagery — emerge from who the members are, where they live, and what they collectively feel speaks to their shared values and character. No palette is more correct than another.
 
-| Color Family | Shades | Meaning |
-|---|---|---|
-| **Brown** | Bark, soil, warm mahogany | Groundedness, stability, ancestral connection |
-| **Green** | Moss, sage, forest | Growth, nature, sustainability, vitality |
-| **Beige / Cream** | Sand, linen, stone | Simplicity, humility, openness |
-| **Rust / Ochre** | Terracotta, amber, clay | Warmth, hard work, the earth in autumn |
+A community rooted in land and seasons may gravitate toward earth tones. A community formed in an urban underground may find itself in neon and black. A community shaped by night-world culture may speak in deep goth. All of these are valid expressions of interconnectedness and love for all beings.
 
-These colors do not demand uniformity — they suggest harmony.
-A community gathered in earth tones will feel cohesive without being uniform.
+The only requirement is that the palette be **chosen together** — not inherited, not assumed, not defaulted to.
+
+**Example directions communities have taken or may take:**
+
+| Aesthetic Direction | Character |
+|---|---|
+| **Earth & Nature** | Soil browns, moss greens, stone grays, warm ochres — grounding, ancestral, ecological |
+| **Cyberpunk & Urban** | Electric blues, neon greens, deep blacks, synthetic glows — future-facing, critical, electric |
+| **Goth & Dark Sacred** | Deep purples, blacks, burgundy, silver — liminal, contemplative, honoring shadow |
+| **Minimal & Monochrome** | White, off-white, black — clarity, intention, removing noise |
+| **Something else entirely** | Whatever your community is |
+
+The palette can evolve. What matters is that it is always chosen, never assumed.
 
 ---
 
@@ -67,18 +72,20 @@ A community gathered in earth tones will feel cohesive without being uniform.
 
 L·A·B places no requirements on how members dress.
 
-Clothing is understood as personal expression, cultural identity, and individual choice.
-The community does not prescribe attire.
+Clothing is understood as personal expression, cultural identity, and individual choice —
+and the community does not prescribe, recommend, or softly steer any particular aesthetic.
 
-That said, the values of L·A·B naturally suggest certain sensibilities:
+The values of L·A·B naturally inform *how* members think about clothing — not *what* they wear:
 
-- **Sustainability**: natural fibers, recycled and upcycled garments, locally made
-- **Simplicity**: an aesthetic of ease rather than performance
-- **Comfort**: clothes that allow movement, meditation, work, and nature
-- **Earth tones**: an optional shared palette, not a uniform
+- **Sustainability**: recycled and upcycled garments, locally made, natural fibers — when this aligns with individual means and context
+- **Comfort**: clothes that allow movement, work, meditation, and full participation in community life
 
-If the community collectively chooses to adopt a shared symbol or item of clothing,
-that choice belongs to the members — arrived at together, worn by choice.
+If the community collectively chooses to adopt a shared aesthetic — whether earth-toned,
+darkly gothic, synthetically bright, or anything else — that choice belongs entirely to the members.
+It is arrived at through communal agreement, worn by choice, and can always be revisited.
+
+No aesthetic is spiritually preferable. No style is closer to the values than another.
+What matters is that the choice is made freely and collectively.
 
 ---
 
