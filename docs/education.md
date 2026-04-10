@@ -25,8 +25,9 @@ the activities they take part in, and the community they build with one another.
 6. Cultivate social responsibility and empathy
 7. Build emotional intelligence, including meditation and mindfulness
 8. Develop leadership and entrepreneurial capacity
-9. Maintain curiosity, wonder, and a love of exploration
-10. Feel a genuine sense of community and belonging
+9. Master technology and human-centric design to solve real-world problems
+10. Maintain curiosity, wonder, and a love of exploration
+11. Feel a genuine sense of community and belonging
 
 ---
 
@@ -39,6 +40,7 @@ the activities they take part in, and the community they build with one another.
 | **Language** | Reading comprehension and analysis; writing techniques; speaking and listening |
 | **Mathematics** | Numeracy; algebra; geometry |
 | **Science** | Environmental studies; animal life and welfare; physical science |
+| **Technology & Design** | Digital literacy, coding, maker skills, and human-centric design |
 | **Social Studies** | Community and government; history; civics |
 | **Arts** | Visual arts; performing arts; music |
 | **Physical Education** | Health and wellness; sports and fitness; cooperative games |
@@ -48,7 +50,7 @@ the activities they take part in, and the community they build with one another.
 | Subject | Focus |
 |---|---|
 | **Meditation & Mindfulness** | Daily practice; emotional regulation; self-awareness |
-| **Entrepreneurship & Innovation** | Problem-solving; initiative; real-world application of values |
+| **Innovation & Human-Centric Design** | Problem-solving; building tools and systems that prioritize human well-being and community needs |
 
 ---
 
@@ -110,19 +112,21 @@ Activities that build a sense of ownership and follow-through.
 Teaching compassion, empathy, and conflict resolution.
 Cooperation and compromise as tools — not weakness, but skill.
 
-### 6. Community-Led Celebrations
-Concerts, festivals, and local events where children showcase their work
-and celebrate their contributions to the community. Joy as a shared practice.
+### 6. Technology & Design Projects
+Teaching digital creation, coding, and ethical tech. Designing physical or digital tools that directly improve the lives of others. Understanding that technology is a tool meant to serve the community in balance with nature.
+
+### 7. Community-Led Celebrations
+Concerts, festivals, makerspace fairs, and events where children showcase their art, tech, and ecological work. Joy as a shared practice.
 
 ---
 
-## The Eco-Friendly School
+## The Learning Environment
 
-The physical learning environment reflects what is being taught:
+The physical learning environment balances nature, art, society, and technology:
 
-- Eco-friendly, recycled, repurposed materials and technologies throughout
+- Eco-friendly, recycled, repurposed materials alongside digital makerspaces
 - Sustainable energy and waste reduction practices
-- Green spaces and gardens integrated into the campus
+- A harmonious mix of green spaces, creative studios, and technology labs
 - Parents actively engaged — as volunteers, mentors, and participants
 
 ---
