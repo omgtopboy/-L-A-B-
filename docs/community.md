@@ -98,16 +98,15 @@ but as callings toward a particular kind of service or as an acknowledgment of t
 
 | Role | Focus |
 |---|---|
-| Harmony Seeker | Conflict resolution and community cohesion |
-| Virtue Spreader | Embodying and sharing the core values |
-| Truth Bearer | Honesty, transparency, and accountability |
-| Mercy Maker | Compassion and care for those who are struggling |
-| Justice Bringer | Equity, challenge of injustice, advocacy |
-| Ambassador of L·A·B | Active outreach and community-building |
-| Compassionate Guide | Mentorship and spiritual support |
-| Gratitude Guardian | Cultivating appreciation and positive awareness |
-| Responsibility Teacher | Accountability practices and education |
-| Forgiveness Advocate | Facilitating reconciliation and healing |
+| L·A·B Mediator | Conflict resolution and community cohesion |
+| L·A·B Caregiver | Compassion and care for those who are struggling |
+| L·A·B Advocate | Equity, challenge of injustice, and advocacy |
+| L·A·B Ambassador | Active outreach and community-building |
+| L·A·B Mentor | Mentorship, guidance, and spiritual support |
+| L·A·B Educator | Universal teaching, shared learning, and accountability practices |
+| L·A·B Reconciler | Facilitating reconciliation and Forgiveness Circles |
+| L·A·B Organizer | Planning community life, meals, and communal events |
+| L·A·B Pattern Weaver | Excellent pattern embodiment and sharing the craft |
 
 ---
 
