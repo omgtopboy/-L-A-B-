@@ -50,6 +50,7 @@ the activities they take part in, and the community they build with one another.
 | Subject | Focus |
 |---|---|
 | **Meditation & Mindfulness** | Daily practice; emotional regulation; self-awareness |
+| **Entrepreneurship & Inner Motivation** | Cultivating self-direction, initiative, and the drive to build value |
 | **Innovation & Human-Centric Design** | Problem-solving; building tools and systems that prioritize human well-being and community needs |
 
 ---
