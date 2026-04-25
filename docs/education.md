@@ -73,9 +73,9 @@ Engaging with perspectives different from one's own. Kindness toward peers and a
 Modeling kindness and encouraging children to pass it forward.
 Random acts of kindness. Thank-you notes. Small, consistent choices of care.
 
-### Hard Work
-Meaningful assignments that require real effort. School projects. DIY challenges.
-Sports, clubs, and extracurriculars that build dedication over time.
+### Meaningful Effort
+Assignments that invite deep focus. School projects. DIY challenges.
+Sports, clubs, and extracurriculars that build dedication and resilience over time.
 
 ### Forgiveness
 Role-playing, storytelling, and discussion. Learning to apologize.
@@ -105,9 +105,9 @@ Reducing waste. Conserving energy. Conservation volunteering.
 Meditation and deep breathing. Relaxation exercises.
 Teaching children to become self-aware and to process emotions constructively.
 
-### 4. Hard Work and Responsibility Activities
+### 4. Meaningful Effort and Responsibility Activities
 Community service projects. Household contributions.
-Activities that build a sense of ownership and follow-through.
+Activities that build a sense of ownership, follow-through, and pride in one's action.
 
 ### 5. Forgiveness Activities
 Teaching compassion, empathy, and conflict resolution.

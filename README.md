@@ -5,7 +5,7 @@
 ---
 
 **L·A·B** (Love for All Beings) is a modern spiritual path built on eight foundational values:
-love, responsibility, respect, kindness, hard work, forgiveness, meditation, and environmental sustainability.
+love, responsibility, respect, kindness, meaningful effort, forgiveness, meditation, and environmental sustainability.
 It is non-dogmatic, inclusive, and grounded in practice rather than doctrine.
 
 - L·A·B does not conflict with any existing main religious paths.
@@ -39,7 +39,7 @@ Initial commit(ment) by OMGTopBoy aka Nikolaj Mokry with the assistance of AutoG
 | **Responsibility** | Owning your actions and their consequences |
 | **Respect** | Honoring difference — in people, cultures, and nature |
 | **Kindness** | Active, daily care for those around you |
-| **Hard Work** | Commitment to excellence and meaningful effort |
+| **Meaningful Effort** | Directing your time and energy toward what deeply matters |
 | **Forgiveness** | Releasing harm; restoring what was broken |
 | **Meditation** | Turning inward to understand the world outward |
 | **Sustainability** | Living in balance with the earth we share |

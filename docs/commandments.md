@@ -23,7 +23,7 @@
 
 **VI. Treat others with fairness and equality, and strive to create a just and equitable society.**
 
-**VII. Work hard and strive for excellence in all aspects of life.**
+**VII. Apply meaningful effort to your chosen pursuits, honoring them with care and intention.**
 
 **VIII. Cultivate forgiveness, and seek to reconcile with those who have wronged you.**
 
